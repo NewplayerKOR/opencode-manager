@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+.pytest_cache/
+.idea/
+*.pyc
+*.db
+*.dat
+*.sqlite
+*.log
+.env
